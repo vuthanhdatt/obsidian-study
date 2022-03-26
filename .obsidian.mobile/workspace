@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "46a011d63695bccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b8db42cf80f9851",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Maths/Maths.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "471ae9fe03954297",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "17f9c69115ec1a81",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ac2f8ceae2bdf15b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4e6844c54deb84d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1d369255ae22b39e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Maths/Maths.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7b8db42cf80f9851",
+  "lastOpenFiles": [
+    "Maths/Maths.md"
+  ]
+}

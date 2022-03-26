@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4cd413db4e991f9",
+        "id": "b01e80ceefd1dd2a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Maths/Maths.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Maths/Maths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Maths.md"
+              }
             }
           }
         ]
@@ -105,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Maths/Maths.md"
+              }
             }
           }
         ]
@@ -115,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4cd413db4e991f9",
+  "active": "b01e80ceefd1dd2a",
   "lastOpenFiles": [
+    "Maths/Maths.md",
+    "Templates/Study-Note.md",
+    "NLP_Timeline.png",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Loss Function.md",
     "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Machine Learning/Supervised Learning/Regression/Regression.md",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
     "Machine Learning/Machine Learning.md",
-    "Maths/Linear Algebra/Mactrices/Mactrices.md",
-    "Maths/Linear Algebra/Mactrices/Matrix Addition and Multiplication.md",
-    "Maths/Linear Algebra/Linear Algebra.md",
-    "2022-02-15.md"
+    "Maths/Linear Algebra/Mactrices/Mactrices.md"
   ]
 }

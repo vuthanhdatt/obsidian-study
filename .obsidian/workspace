@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "6c6eed1d1851b715",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4cd413db4e991f9",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b444d0b34206846",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5075c8f3f75b46d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ebeb64e9d286918",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60495a22159c70e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0fed27767e55d7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "afbecfbf174c3427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db90df33c146673",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d044d209498ce7a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ea94a6c053eb776",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "cdb7f53ea6dee1cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03ae5dd56b170e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4cd413db4e991f9",
+  "lastOpenFiles": [
+    "Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Machine Learning/Loss Function.md",
+    "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "Machine Learning/Supervised Learning/Regression/Regression.md",
+    "Machine Learning/Supervised Learning/Classification/Classification.md",
+    "Machine Learning/Machine Learning.md",
+    "Maths/Linear Algebra/Mactrices/Mactrices.md",
+    "Maths/Linear Algebra/Mactrices/Matrix Addition and Multiplication.md",
+    "Maths/Linear Algebra/Linear Algebra.md",
+    "2022-02-15.md"
+  ]
+}

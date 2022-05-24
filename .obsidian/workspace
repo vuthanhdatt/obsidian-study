@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Maths/Maths.md",
+            "file": "Machine Learning/Supervised Learning/Metrics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Maths.md",
+                "file": "Machine Learning/Supervised Learning/Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "Machine Learning/Supervised Learning/Metrics.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths/Maths.md"
+                "file": "Machine Learning/Supervised Learning/Metrics.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "b01e80ceefd1dd2a",
   "lastOpenFiles": [
-    "Maths/Maths.md",
-    "Templates/Study-Note.md",
-    "NLP_Timeline.png",
-    "Machine Learning/Supervised Learning/Supervised Learning.md",
-    "Machine Learning/Loss Function.md",
-    "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "Machine Learning/Supervised Learning/Metrics.md",
     "Machine Learning/Supervised Learning/Regression/Regression.md",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
+    "Preprocessing data.md",
+    "Fine tune model.md",
+    "Maths/Linear Algebra/Mactrices/Mactrices.md",
     "Machine Learning/Machine Learning.md",
-    "Maths/Linear Algebra/Mactrices/Mactrices.md"
+    "Maths/Maths.md",
+    "Machine Learning/Loss Function.md",
+    "Machine Learning/Supervised Learning/Supervised Learning.md"
   ]
 }

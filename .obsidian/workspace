@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b01e80ceefd1dd2a",
+        "id": "7a2054289dcc8391",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Machine Learning/Supervised Learning/Metrics.md",
+            "file": "Decision tree.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Metrics.md",
+                "file": "Decision tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +97,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Metrics.md"
+                "file": "Decision tree.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cdb7f53ea6dee1cd",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Metrics.md"
+                "file": "Decision tree.md"
               }
             }
           }
@@ -124,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b01e80ceefd1dd2a",
+  "active": "7a2054289dcc8391",
   "lastOpenFiles": [
-    "Machine Learning/Supervised Learning/Metrics.md",
+    "Decision tree.md",
+    "Logistic Regression.md",
+    "Support Vector Machines - Classification.md",
+    "Support Vector Machine.md",
+    "images/L1 and L2.png",
     "Machine Learning/Supervised Learning/Regression/Regression.md",
+    "Machine Learning/Unsupervised Learning/K-Mean.md",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
-    "Preprocessing data.md",
-    "Fine tune model.md",
-    "Maths/Linear Algebra/Mactrices/Mactrices.md",
-    "Machine Learning/Machine Learning.md",
-    "Maths/Maths.md",
-    "Machine Learning/Loss Function.md",
-    "Machine Learning/Supervised Learning/Supervised Learning.md"
+    "images/Pasted image 20220531164301.png",
+    "images/Pasted image 20220531162211.png"
   ]
 }

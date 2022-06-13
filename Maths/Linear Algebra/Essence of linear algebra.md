@@ -1,0 +1,2 @@
+- linear algebra tend to revolve vector addition and scalar multiplication
+- 

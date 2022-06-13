@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Decision tree.md",
+            "file": "utils/dotfile.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision tree.md",
+                "file": "utils/dotfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision tree.md"
+                "file": "utils/dotfile.md"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision tree.md"
+                "file": "utils/dotfile.md"
               }
             }
           }
@@ -127,15 +127,15 @@
   },
   "active": "7a2054289dcc8391",
   "lastOpenFiles": [
-    "Decision tree.md",
-    "Logistic Regression.md",
-    "Support Vector Machines - Classification.md",
-    "Support Vector Machine.md",
-    "images/L1 and L2.png",
-    "Machine Learning/Supervised Learning/Regression/Regression.md",
-    "Machine Learning/Unsupervised Learning/K-Mean.md",
-    "Machine Learning/Supervised Learning/Classification/Classification.md",
-    "images/Pasted image 20220531164301.png",
-    "images/Pasted image 20220531162211.png"
+    "utils/dotfile.md",
+    "utils/VS Code.md",
+    "Maths/Linear Algebra/Vector.md",
+    "Machine Learning/Support Vector Machines - Classification.md",
+    "Machine Learning/Supervised Learning/Classification.md",
+    "utils/Quản trị hiệu suất.md",
+    "Finance/Risk, return, and the historical record.md",
+    "Machine Learning/Preprocessing data.md",
+    "Preprocessing data.md",
+    "images/NLP_Timeline.png"
   ]
 }

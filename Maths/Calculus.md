@@ -1,0 +1,1 @@
+$$\Huge {\frac{\delta y}{\delta x}}:={\frac{f(x+\delta x)-f(x)}{\delta x}}$$

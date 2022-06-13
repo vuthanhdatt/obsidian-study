@@ -1,0 +1,6 @@
+```bash
+history
+man
+tldr
+
+```

@@ -1,0 +1,53 @@
+{
+  "token": "6879-3jLk2mPZY2CsW8Vi_s6JIIo_037XZVvNjdsnYdDNpwI",
+  "user": "acct:vuthanhdatt@hypothes.is",
+  "highlightsFolder": "utils",
+  "isConnected": true,
+  "template": "{% if is_new_article %}\n# {{title}}\n\n## Metadata\n{% if author %}- Author: [{{author}}]({{authorUrl}}){% endif %}\n- Title: {{title}}\n{% if url %}- Reference: {{url}}{% endif %}\n- Category: #article\n{% endif %}\n\n{%- if is_new_article %}\n## Page Notes\n{% for highlight in page_notes -%}\n{{highlight.annotation}}\n{%- if highlight.tags | length %}\nTags: {% for tag in highlight.tags -%} #{{tag | replace(\" \", \"-\")+\" \"}}{%- endfor %}\n{% endif %}\n{% endfor %}\n{%- endif -%}\n\n{%- if is_new_article -%}\n## Highlights\n{% for highlight in highlights -%}\n- {{highlight.text}} — [Updated on {{highlight.updated}}]({{highlight.incontext}})\n{%- if 'Private' != highlight.group %} — Group: #{{highlight.group | replace(\" \", \"-\")}}{% endif %}\n{% if highlight.tags | length %}    - Tags: {% for tag in highlight.tags %} #{{tag | replace(\" \", \"-\")+\" \"}}{% endfor %}\n{% endif -%}\n{% if highlight.annotation %}    - Annotation: {{highlight.annotation}}{% endif %}\n{% endfor %}\n{% endif %}\n",
+  "syncOnBoot": true,
+  "autoSyncInterval": 5,
+  "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
+  "history": {
+    "totalArticles": 8,
+    "totalHighlights": 13
+  },
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    },
+    {
+      "id": "Vxqi5oib",
+      "name": "Data Engineer",
+      "public": false,
+      "type": "private",
+      "selected": true
+    },
+    {
+      "id": "XAqxnA2m",
+      "name": "Machine Learning",
+      "public": false,
+      "type": "private",
+      "selected": true
+    },
+    {
+      "id": "q8XwVmkN",
+      "name": "Python base",
+      "public": false,
+      "type": "private",
+      "selected": true
+    },
+    {
+      "id": "m74PRyBG",
+      "name": "test",
+      "public": false,
+      "type": "private",
+      "selected": true
+    }
+  ],
+  "useDomainFolders": true,
+  "lastSyncDate": "2022-07-13T15:36:23.017Z"
+}

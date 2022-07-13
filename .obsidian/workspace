@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/13-06-22.md",
+            "file": "Knowledge Management.md",
             "mode": "source",
             "source": false
           }
@@ -41,8 +41,8 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
+                "matchingCase": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/13-06-22.md",
+                "file": "Knowledge Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/13-06-22.md"
+                "file": "Knowledge Management.md"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/13-06-22.md"
+                "file": "Knowledge Management.md"
               }
             }
           }
@@ -127,15 +127,15 @@
   },
   "active": "7a2054289dcc8391",
   "lastOpenFiles": [
-    "Daily Notes/13-06-22.md",
-    "utils/dotfile.md",
-    "utils/VS Code.md",
-    "Maths/Linear Algebra/Vector.md",
-    "Machine Learning/Support Vector Machines - Classification.md",
-    "Machine Learning/Supervised Learning/Classification.md",
-    "utils/Quản trị hiệu suất.md",
-    "Finance/Risk, return, and the historical record.md",
-    "Machine Learning/Preprocessing data.md",
-    "Preprocessing data.md"
+    "utils/coursera.org/Multiple Features  Coursera.md",
+    "utils/Algo.md",
+    "utils/blog.bytebytego.com/How to avoid crawling duplicate URLs at Google scale.md",
+    "utils/feedly.com/Feedly – More signal, less noise.md",
+    "utils/github.com/GitHub - weichenwobsidian-hypothesis-plugin An Obsidian.md plugin that syncs highlights from Hypothesis.md",
+    "utils/geeksforgeeks.org/Bloom Filters - Introduction and Implementation - GeeksforGeeks.md",
+    "utils/realpython.com/Namespaces and Scope in Python – Real Python.md",
+    "utils/arxiv.org/MLOps_arXiv_v4.md",
+    "Coursera Financial Aid Answer.md",
+    "Untitled.md"
   ]
 }

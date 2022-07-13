@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#Data-Engineer",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -9,14 +9,14 @@
   "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 0.9,
+  "lineSizeMultiplier": 1.58333333333333,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.534013605442177,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9893653872057239,
+  "scale": 0.7156112368300459,
   "close": false
 }

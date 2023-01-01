@@ -20,3 +20,8 @@ hello, im Vu Thanh Dat,I study financial technology at university of economic an
 
 
 ssh -i C:\Users\Milky\OneDrive\Documents\vuthanhdatt vuthanhdatt@104.208.83.77
+![[Pasted image 20230101192051.png]]
+
+![[746D02E3-D213-4A6F-A6E0-9A9CBA4EDCAD.png]]
+
+![[D537BF94-DD5B-4485-AF28-206A18E696A5.png]]

@@ -1,12 +1,1 @@
-{
-  "legacyEditor": false,
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "images",
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  }
-}
+{}
